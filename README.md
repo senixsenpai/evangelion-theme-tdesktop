@@ -1,4 +1,4 @@
-# evangelion-theme-tdesktop
+# evangelion-themes-tdesktop
 ![4ff28d4ce0bb709451e4277b134274e6](https://github.com/senixsenpai/evangelion-theme-tdesktop/assets/139440536/c4e7ac33-8655-4d54-a8c9-e7057f2e6005)
 
 EN
