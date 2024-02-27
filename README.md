@@ -11,7 +11,7 @@ RU
 
 Themes/Темы
 -----------
-Seele-tdesktop-themes
+Seele-tdesktop-theme
 ![TyAyd26Jh7](https://github.com/senixsenpai/evangelion-theme-tdesktop/assets/139440536/6d8e45c4-0fbe-4a35-8e18-56ca216ef042)
 
 
